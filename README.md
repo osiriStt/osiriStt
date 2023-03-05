@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @osiriStt
-- 👀 I’m interested in Java de momento.
-- 🌱 I’m currently learning  Java form de the very beguining, from Scracth, but  I really want to do the hard Work Like Luke with Joda thanks Masters Jefi JAVA
- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Java seriusly, IO don't kown the greeting nitty of Java but I understant that String is a Java Class, an Objet.
+- 🌱 I’m currently learning  Java form de the very beguining, I have a 120 hrs Basic Course, so I am statir from the Scracth, but  I really want to do the hard Work Like Luke with Joda thanks Masters Jedi JAVA.
+ 💞️ I’m looking to collaborate on ...Any project over there. 
 - 📫 How to reach me ..
 
 <!---
